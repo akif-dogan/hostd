@@ -1,4 +1,4 @@
-module go.thebigfile.com/hostd
+module go.thebigfile.com/hostd // v0.1.0
 
 go 1.23.1
 

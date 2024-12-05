@@ -1,3 +1,18 @@
+## 0.1.0 (2024-12-05)
+
+### Breaking Changes
+
+- Remove RHP Session endpoints
+
+### Features
+
+- Add support for RHP4 accounts
+
+### Fixes
+
+- Automate changelog generation
+- Move RHP2 and RHP3 settings into the config manager to be consistent with RHP4
+
 ## 1.1.2
 
 ### Breaking changes
